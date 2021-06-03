@@ -1,0 +1,32 @@
+header {
+    background-color: red;
+    /* margin: 50px 46%; */
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+h4 {
+    font-size: 1em;
+}
+
+button {
+    width: 50px;
+}
+
+main {
+    background-color: yellow;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 39%; 
+}
+
+i {
+    color: blue;
+};
+
